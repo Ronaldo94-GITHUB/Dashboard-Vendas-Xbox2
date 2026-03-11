@@ -54,5 +54,5 @@ A proposta é transformar dados brutos em informações visuais claras e úteis,
 ---
 
 ## ✅ Conclusão
-Este projeto demonstra como o Excel pode ser utilizado para criar dashboards interativos e eficientes.  
-A organização dos dados e a visualização gráfica tornam a análise de vendas mais clara, prática e estratégica.
+Este projeto reforça que dados bem organizados e visualizados corretamente são fundamentais para compreender o desempenho comercial e orientar estratégias futuras.  
+O dashboard de vendas em Excel cumpre o papel de transformar informações em insights práticos, tornando a análise mais clara, ágil e estratégica.

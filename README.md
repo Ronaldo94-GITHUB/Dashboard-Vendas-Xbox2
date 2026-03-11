@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte de um desafio prático com o objetivo d
 A proposta é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho comercial e apoiando a tomada de decisões baseadas em dados.
 
 
-![Capa do Projeto](capa.png)
+![Capa do Projeto](XBOX.png)
 
 
 ---

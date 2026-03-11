@@ -10,6 +10,27 @@ A proposta é transformar dados brutos em informações visuais claras e úteis,
 
 
 ---
+```
+📊 Dashboard-Vendas/
+│
+├── README.md                   # Documentação principal do projeto
+├── Dashboard_Vendas.xlsx       # Arquivo Excel com o dashboard concluído
+│
+├── /data                       # (Opcional) Dados brutos utilizados
+│   └── vendas.csv              # Exemplo de dados fictícios de vendas
+│
+├── /images                     # Imagens para capa e ilustrações
+│   └── capa.png                # Capa do projeto
+│   └── exemplo_dashboard.png   # Print do dashboard
+│
+└── /docs                       # Documentação técnica complementar
+    ├── guia_uso.md             # Explicação de como utilizar o dashboard
+    ├── guia_desenvolvimento.md # Detalhes sobre como o projeto foi construído
+    ├── guia_instalacao.md      # Passo a passo para instalar/abrir o projeto
+    └── guia_dashboard.md       # Explicação detalhada do dashboard e seus componentes
+```
+
+----
 
 ## 📂 Estrutura do Repositório
 - `README.md` → documentação do projeto  
